@@ -1,0 +1,304 @@
+{
+  "version": "20251030-165731",
+  "categories": [
+    {
+      "id": "CAT_EMER",
+      "name": "긴급상황",
+      "order": 3,
+      "icon": "🚨",
+      "parent_id": null,
+      "tags": "대설, 화재, 지진, 폭염, 태풍, 소화기"
+    },
+    {
+      "id": "CAT_SAL",
+      "name": "할인",
+      "order": 2,
+      "icon": "📢",
+      "parent_id": null,
+      "tags": "할인코드, 보트견인, 심야할인"
+    },
+    {
+      "id": "CAT_CAR",
+      "name": "전자카드",
+      "order": 1,
+      "icon": "💳",
+      "parent_id": null,
+      "tags": "충전, 취소, 하자카드, 재발급, 잔액이체"
+    },
+    {
+      "id": "CAT_MAC",
+      "name": "무인정산기",
+      "order": 6,
+      "icon": "🛠️",
+      "parent_id": null,
+      "tags": "초기화, 음성오류"
+    },
+    {
+      "id": "CAT_REF",
+      "name": "환불",
+      "order": 8,
+      "icon": "🔁",
+      "parent_id": null,
+      "tags": "단말기"
+    },
+    {
+      "id": "CAT_EVA",
+      "name": "심사",
+      "order": 9,
+      "icon": "🕓",
+      "parent_id": null,
+      "tags": "근무확인서"
+    },
+    {
+      "id": "CAT_PC",
+      "name": "PC·보안",
+      "order": 4,
+      "icon": "💻",
+      "parent_id": null,
+      "tags": "도공망, 인터넷망, 통합망"
+    },
+    {
+      "id": "CAT_UNP_001",
+      "name": "미납",
+      "order": 7,
+      "icon": "💵",
+      "parent_id": null,
+      "tags": "부가통행료"
+    },
+    {
+      "id": "CAT_APP",
+      "name": "고속도로 통행료+(앱) 가이드",
+      "order": 5,
+      "icon": "📱",
+      "tags": "가입방법, 미납납부 및 거래내역출력, 통행료정산기 미납납부",
+      "parent_id": null
+    },
+    {
+      "id": "CAT_RES",
+      "name": "운행제한",
+      "order": 10,
+      "icon": "🚛",
+      "tags": "과적, 적재불량, 도로파손",
+      "parent_id": null
+    }
+  ],
+  "manuals": [
+    {
+      "id": "MNL_EMR_001",
+      "category_id": "CAT_EMER",
+      "title": "대설 발생 시 행동요령",
+      "summary": "대설 대응 가이드북",
+      "content": "",
+      "tags": "대설, 긴급, 위험",
+      "attachment_url": "https://drive.google.com/file/d/1SDlZCwY_d02jGVSrNq8ER5ifbVG8jnBm/view?usp=sharing"
+    },
+    {
+      "id": "MNL_EMR_002",
+      "category_id": "CAT_EMER",
+      "title": "화재 발생 시 행동요령",
+      "summary": "화 대응 가이드북",
+      "content": "",
+      "tags": "화재, 긴급, 통제, 긴급",
+      "attachment_url": "https://drive.google.com/file/d/1QrWTL_12m_RGuwU-63IueR_Zpf57USJK/view?usp=sharing"
+    },
+    {
+      "id": "MNL_EMR_003",
+      "category_id": "CAT_EMER",
+      "title": "지진 발생 시 행동요령",
+      "summary": "지진 대응 가이드북",
+      "content": "",
+      "tags": "긴급, 위험, 지진",
+      "attachment_url": "https://drive.google.com/file/d/1316gyWa1A4mSPHRv_4ZzXkc1fXqqNIiK/view?usp=sharing"
+    },
+    {
+      "id": "MNL_OPS_001",
+      "category_id": "CAT_CAR",
+      "title": "전자카드 충전 및 취소",
+      "summary": "전자카드 충전 및 취소 절차",
+      "content": "첨부1 : 전자카드 충전\n첨부2 : 전자카드 충전 취소",
+      "tags": "전자카드, 충전, 취소",
+      "attachment_url": "https://www.canva.com/design/DAG0f0OUGes/B_RAcmKYnt_KDY66_8piMg/watch?utm_content=DAG0f0OUGes&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha564c19aa7, https://www.canva.com/design/DAG0gG3xaVI/lFx4j0VaCxOTEc_pnOil1w/watch?utm_content=DAG0gG3xaVI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h45190c40e6"
+    },
+    {
+      "id": "MNL_OPS_003",
+      "category_id": "CAT_CAR",
+      "title": "하자카드 처리 및 재발급 방법 (취소방법 포함)",
+      "summary": "하자카드 처리 및 재발급 절차",
+      "content": "첨부1 : 하자카드 처리 및 재발급 방법\n첨부2 : 재발급 및 하자카드 처리 취소 방법",
+      "tags": "하자카드, 재발급",
+      "attachment_url": "https://www.canva.com/design/DAG0gRJFkMU/1qDlIhSLHZjoG46I391o-Q/watch?utm_content=DAG0gRJFkMU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3f50a7891b, https://www.canva.com/design/DAG0hRGzLxg/hM7Mj3MgV2LM2W2UMVu_1Q/watch?utm_content=DAG0hRGzLxg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9686da408e"
+    },
+    {
+      "id": "MNL_OPS_005",
+      "category_id": "CAT_CAR",
+      "title": "하자카드 처리 및 잔액이체 방법",
+      "summary": "하자카드 처리 및 잔액이체 절차",
+      "content": "",
+      "tags": "하자카드, 잔액이체",
+      "attachment_url": "https://www.canva.com/design/DAG0hpvkpR0/XV_A4w5cgDU2Sew4LDujnw/watch?utm_content=DAG0hpvkpR0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=had0bca9c5c"
+    },
+    {
+      "id": "MNL_OPS_006",
+      "category_id": "CAT_MAC",
+      "title": "무인정산기 초기화 방법",
+      "summary": "무인정산기 초기화",
+      "content": "",
+      "tags": "무인정산기, 초기화",
+      "attachment_url": "https://www.canva.com/design/DAG0mgkDSXM/JDwZHwuNNoZ8lGNkZZgcaQ/watch?utm_content=DAG0mgkDSXM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h583788ee6d"
+    },
+    {
+      "id": "MNL_OPS_007",
+      "category_id": "CAT_MAC",
+      "title": "무인정산기 음성 오류 처리 방법",
+      "summary": "무인정산기 음성 오류 처리 절차",
+      "content": "",
+      "tags": "무인정산기, 음성오류",
+      "attachment_url": "https://www.canva.com/design/DAG0mhfLj80/-lOu7jifeZ9a0j54fXKngA/watch?utm_content=DAG0mhfLj80&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha1f4b59402"
+    },
+    {
+      "id": "MNL_EMR_004",
+      "category_id": "CAT_EMER",
+      "title": "폭염 발생시 행동요령",
+      "summary": "폭염 대응 가이드북",
+      "content": "",
+      "tags": "폭염, 위험",
+      "attachment_url": "https://drive.google.com/file/d/1jNV3asZApIH5PgZze-VdLmk4QQLttGF9/view?usp=sharing"
+    },
+    {
+      "id": "MNL_EMR_005",
+      "category_id": "CAT_EMER",
+      "title": "태풍·호우 발생 시 행동요령",
+      "summary": "태풍·호우 가이드북",
+      "content": "",
+      "tags": "태풍, 호우, 위험",
+      "attachment_url": "https://drive.google.com/file/d/1S4bH1emjKQOPBigo5cT8TLooNtQ0dc2N/view?usp=sharing"
+    },
+    {
+      "id": "MNL_EMR_006",
+      "category_id": "CAT_EMER",
+      "title": "소화기 사용 및 점검 방법",
+      "summary": "소화기 가이드북",
+      "content": "",
+      "tags": "소화기, 점검",
+      "attachment_url": "https://drive.google.com/file/d/1D128VCaYHutRTPgHo16nynTjlxdsAf_h/view?usp=sharing"
+    },
+    {
+      "id": "MNL_PC_001",
+      "category_id": "CAT_PC",
+      "title": "도공망 문제 해결방법",
+      "summary": "도공망 PC 자주 일어나는 오류 해결방법",
+      "content": "",
+      "tags": "도공망, PC",
+      "attachment_url": "https://drive.google.com/file/d/15mDietc8D-Ztf_Es6Abfix4X6guKdRxH/view?usp=sharing"
+    },
+    {
+      "id": "MNL_PC_002",
+      "category_id": "CAT_PC",
+      "title": "인터넷망 문제 해결방법",
+      "summary": "인터넷망 자주 일어나는 오류 해결방법",
+      "content": "",
+      "tags": "인터넷망, PC",
+      "attachment_url": "https://drive.google.com/file/d/1kUw6M_tu3KPGmaA5eFBYEKFM8UbdtHno/view?usp=sharing"
+    },
+    {
+      "id": "MNL_PC_003",
+      "category_id": "CAT_PC",
+      "title": "통합망 문제 해결방법",
+      "summary": "통합망 자주 일어나는 오류 해결방법",
+      "content": "",
+      "tags": "통합망, PC",
+      "attachment_url": "https://drive.google.com/file/d/1usn8RQ3RGDVegCvbXhemKwoxxkzBl125/view?usp=sharing"
+    },
+    {
+      "id": "MNL_SAL_001",
+      "category_id": "CAT_SAL",
+      "title": "할인코드 모음",
+      "summary": "할인속성 코드 확인",
+      "content": "",
+      "tags": "할인, 코드",
+      "attachment_url": "https://drive.google.com/file/d/1bEwaG6ozcYhQfRhzV3fTL63OP5AUMuKu/view?usp=sharing"
+    },
+    {
+      "id": "MNL_SAL_002",
+      "category_id": "CAT_SAL",
+      "title": "보트견인 할인 적용(감면차량 및 전기수소차)",
+      "summary": "보트견인 차량(감면차량 및 전기수소차 적용 예시)",
+      "content": "",
+      "tags": "보트견인, 전기수소차, 전기차, 감면차량",
+      "attachment_url": "https://drive.google.com/file/d/17CN_5rtJaYGFTw0rWeVtMDr-ovFtgrlf/view?usp=sharing"
+    },
+    {
+      "id": "MNL_EVA_001",
+      "category_id": "CAT_EVA",
+      "title": "근무확인서 수정처리 기준",
+      "summary": "근무확인서 수정처리 기준",
+      "content": "",
+      "tags": "근무확인서, 수정",
+      "attachment_url": "https://drive.google.com/file/d/1MsIAzTAa6Y-boUTWLs8B9fAK0veIdUAf/view?usp=sharing"
+    },
+    {
+      "id": "MNL_REF_001",
+      "category_id": "CAT_REF",
+      "title": "단말기 정보 미변경 차량 환불 기준",
+      "summary": "단말기 정보 미변경 차량 환불 기준",
+      "content": "",
+      "tags": "단말기, 환불",
+      "attachment_url": "https://drive.google.com/file/d/18rRdWSkno-syY4aRkSnhEouM21mlBult/view?usp=sharing"
+    },
+    {
+      "id": "MNL_SAL_003",
+      "category_id": "CAT_SAL",
+      "title": "화물차량 심야할인 적용 기준",
+      "summary": "화물차량 심야할인 적용 기준",
+      "content": "",
+      "tags": "화물차량, 심야할인",
+      "attachment_url": "https://drive.google.com/file/d/1fQdjsxBVnv41NTSje6AKk2bdzuD1Bpuf/view?usp=sharing"
+    },
+    {
+      "id": "MNL_UNP_001",
+      "category_id": "CAT_UNP_001",
+      "title": "부가통행료 안내 확인서 등록 및 고지 절차",
+      "summary": "부가통행료 관련 업무 안내",
+      "content": "",
+      "tags": "부가통행료, 고지",
+      "attachment_url": "https://drive.google.com/file/d/14UFawiYiO-23lMLwk191ov3X_p3tOpq0/view?usp=sharing"
+    },
+    {
+      "id": "MNL_APP_001",
+      "category_id": "CAT_APP",
+      "title": "가입방법",
+      "summary": "통행료+ 가입방법",
+      "content": "",
+      "tags": "어플, 가입방법",
+      "attachment_url": "https://drive.google.com/file/d/1tJUK7XIl6tVgGeo0V0U_ojtNNtElgO7L/view?usp=sharing"
+    },
+    {
+      "id": "MNL_APP_002",
+      "category_id": "CAT_APP",
+      "title": "미납납부 및 거래내역출력 방법",
+      "summary": "통행료+로 미납납부 및 거래내역 출력 방법",
+      "content": "",
+      "tags": "미납납부, 거래내역출력",
+      "attachment_url": "https://drive.google.com/file/d/1bjIl6T8m-TFQbD-F-oievTWxuzhY1f71/view?usp=sharing"
+    },
+    {
+      "id": "MNL_APP_003",
+      "category_id": "CAT_APP",
+      "title": "통행료정산기 미납 납부 방법",
+      "summary": "통행료정산기 미납내역 확인 및 납부방법",
+      "content": "",
+      "tags": "통행료정산기, 미납, 납",
+      "attachment_url": "https://drive.google.com/file/d/17JITJHmxppuEAwimel8TfdEm7lQR3vEb/view?usp=sharing"
+    },
+    {
+      "id": "MNL_RES",
+      "category_id": "CAT_RES",
+      "title": "과적속도 10km/h 초과 시 측정값 유효성 판정 기준",
+      "summary": "",
+      "content": "",
+      "tags": "과적, 속도초과",
+      "attachment_url": "https://drive.google.com/file/d/1lviy9L5ZQXI4RTmnDE1-gqa4jHhyusJm/view?usp=sharing"
+    }
+  ],
+  "exported_at": "2025-10-30T07:57:31.877Z"
+}
